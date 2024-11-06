@@ -3,3 +3,5 @@
 # Introducción a Kotlin.
 
 (Tarea 1 - Introducción a Kotlin)
+
+## Kotlin es un lenguaje de programación orientado a objetos multiplataforma, estáticamente tipado, de alto nivel y propósito general con inferencia de tipos.
